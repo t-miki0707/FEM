@@ -1,0 +1,7 @@
+*************************************************
+    Soil-Water Coupled Finite Element Analysis  
+    Model: linear elastic, Modified Cam-Clay
+    Matrix calcuration: LU decomposition
+    Developer: Takuya Miki
+    Last update: 2024.2.5
+*************************************************

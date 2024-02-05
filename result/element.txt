@@ -1,0 +1,5 @@
+   EleNo,    Node1,    Node2,    Node3,    Node4 
+       1,        1,        2,        3,        4 
+Time = 1 
+   EleNo,   SigmaX,   SigmaY,    TauXY,     EpsX,     EpsY,  GammaXY 
+       1,  -2.9508, -20.0000,   0.0000,   0.0010,  -0.0034,   0.0000 
